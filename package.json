@@ -1,0 +1,39 @@
+{
+  "name": "likecomparer",
+  "version": "1.0.0",
+  "description": "What is liked",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agee6/likeComparer.git"
+  },
+  "keywords": [
+    "facebook",
+    "likes",
+    "joneses"
+  ],
+  "author": "AGee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agee6/likeComparer/issues"
+  },
+  "homepage": "https://github.com/agee6/likeComparer#readme",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-react": "^6.16.0",
+    "bootstrap": "^3.3.7",
+    "chart.js": "^1.1.1",
+    "flux": "^2.1.1",
+    "hellojs": "^1.14.0",
+    "history": "^1.17.0",
+    "jquery": "^2.1.4",
+    "react": "^15.3.2",
+    "react-chartjs": "^0.8.0",
+    "react-dom": "^15.3.2",
+    "react-dropdown": "^1.1.0"
+  }
+}
